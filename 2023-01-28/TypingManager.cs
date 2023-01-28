@@ -288,5 +288,4 @@ public class TypingManager : MonoBehaviour
             hText.text = "Start Typing...";
         }
     }
-
 }
