@@ -172,7 +172,7 @@ public class TypingManager : MonoBehaviour
         else
         {
             jText.text = "単語の数が合っていません";
-            eText.text = "The amount of Vocabs does not match";
+            eText.text = "The amount of vocab does not match";
         }
         wText.text = "Words: " + _wString;
     }
